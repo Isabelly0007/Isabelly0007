@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu chamo Isabelly Pereira de França, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na UNICID. Desejo que eu volte a ser analista de sistema e continue com minha paixão em tecnologia.
+Eu chamo Isabelly Pereira de França, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na UNICID. Desejo que eu ser analista de sistema e continue com minha paixão em tecnologia.
 
 
 ## 🌐 Socials:
