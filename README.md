@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner pixel art com Monte Fuji, torii e flores de cerejeira" width="100%" />
+<img src="banner.svg" alt="Banner pixel art com Monte Fuji, torii e flores de cerejeira" width="100%" />
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/Isabelly0007">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=1000&color=FF6FA8&center=true&vCenter=true&width=760&height=60&lines=Konnichiwa!+Eu+sou+SEU+NOME;Dev+kawaii+em+construcao;Transformando+cafe+em+codigo;Level+up+todo+dia" alt="Texto pixel animado" />
 </a>
 
@@ -42,7 +42,7 @@
 
 ```text
 ╔══════════════════════════════════════════╗
-║  ✿  P E R F I L   D A   P L A Y E R  ✿   ║
+║  ✿  P E R F I L   D A   P L A Y E R  ✿  ║
 ╠══════════════════════════════════════════╣
 ║  Nome ......... SEU NOME                 ║
 ║  Classe ....... Dev SUA ÁREA             ║
