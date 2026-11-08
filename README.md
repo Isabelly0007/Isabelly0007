@@ -5,7 +5,7 @@
 <img src="assets/header.svg" width="100%" alt="Isabelly França, Computer Science Student e Tech Enthusiast, sobre uma ilustração de uma baleia e um mergulhador no oceano"/>
 
 <a href="https://github.com/Isabelly0007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33B5E2&center=true&vCenter=true&width=700&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Jovem+Aprendiz+de+Tecnologia+no+Nubank+%F0%9F%92%9C;Python+%E2%80%A2+MySQL+%E2%80%A2+JavaScript+%E2%80%A2+PHP+%F0%9F%90%8D;Mergulhando+fundo+no+mundo+do+c%C3%B3digo+%F0%9F%8C%8A;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Frases animadas de apresentação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33B5E2&center=true&vCenter=true&width=700&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Jovem+Aprendiz+de+Tecnologia+no+Nubank;Python+%E2%80%A2+MySQL+%E2%80%A2+JavaScript+%E2%80%A2+PHP;Mergulhando+fundo+no+mundo+do+c%C3%B3digo;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo" alt="Frases animadas de apresentação"/>
 </a>
 
 <br/>
@@ -21,11 +21,11 @@
 <br/><br/>
 
 <!-- Menu de navegação: cada botão leva direto para a seção -->
-<a href="#sobre"><img src="https://img.shields.io/badge/Sobre-14415F?style=for-the-badge" alt="Ir para Sobre mim"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-145A8E?style=for-the-badge" alt="Ir para Tecnologias"/></a>
-<a href="#projetos"><img src="https://img.shields.io/badge/Projetos-176DAE?style=for-the-badge" alt="Ir para Projetos"/></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-1D82BE?style=for-the-badge" alt="Ir para Analytics"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/Contato-2796CC?style=for-the-badge" alt="Ir para Contato"/></a>
+<a href="#user-content-sobre"><img src="assets/nav-sobre.svg" alt="Ir para Sobre mim"/></a>
+<a href="#user-content-stack"><img src="assets/nav-tecnologias.svg" alt="Ir para Tecnologias"/></a>
+<a href="#user-content-projetos"><img src="assets/nav-projetos.svg" alt="Ir para Projetos"/></a>
+<a href="#user-content-analytics"><img src="assets/nav-analytics.svg" alt="Ir para Analytics"/></a>
+<a href="#user-content-contato"><img src="assets/nav-contato.svg" alt="Ir para Contato"/></a>
 
 </div>
 
@@ -33,46 +33,46 @@
 
 <a id="sobre"></a>
 
-## ✨ Sobre mim
+## Sobre mim
 
 <img align="right" alt="Coding GIF" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Olá! Eu sou a **Isabelly França**! 💜
+Olá! Eu sou a **Isabelly França**!
 
-- 🎓 Graduanda em **Ciência da Computação na UNICID**.
-- 💻 Técnica em Desenvolvimento de Sistemas pela ETEC Parque Belém.
-- 🚀 Jovem Aprendiz na área de Tecnologia do **Nubank**.
-- 🌱 Atualmente aprofundando meus conhecimentos em programação, banco de dados e desenvolvimento de software.
-- 🎨 Gosto de unir criatividade, tecnologia e resolução de problemas.
-- 📚 Sempre aprendendo, explorando e desenvolvendo novos projetos!
+- Graduanda em **Ciência da Computação na UNICID**.
+- Técnica em Desenvolvimento de Sistemas pela ETEC Parque Belém.
+- Jovem Aprendiz na área de Tecnologia do **Nubank**.
+- Atualmente aprofundando meus conhecimentos em programação, banco de dados e desenvolvimento de software.
+- Gosto de unir criatividade, tecnologia e resolução de problemas.
+- Sempre aprendendo, explorando e desenvolvendo novos projetos!
 
 <br clear="right"/>
 
 <details>
-<summary><b>💬 Clique aqui: sobre o que podemos conversar?</b></summary>
+<summary><b>Clique aqui: sobre o que podemos conversar?</b></summary>
 
 <br/>
 
 | Assunto | Por quê |
 |---|---|
-| 🐍 **Python** | Uso em automações e APIs, como no Bot de Estoque |
-| 🗄️ **Banco de dados (MySQL)** | Modelagem e gestão de dados, como no Mercadão Pet |
-| 🌐 **Desenvolvimento web** | HTML, CSS, JavaScript e PHP nos meus projetos |
-| 🚀 **Começar em tecnologia** | Minha experiência como Jovem Aprendiz e estudante de Computação |
+| **Python** | Uso em automações e APIs, como no Bot de Estoque |
+| **Banco de dados (MySQL)** | Modelagem e gestão de dados, como no Mercadão Pet |
+| **Desenvolvimento web** | HTML, CSS, JavaScript e PHP nos meus projetos |
+| **Começar em tecnologia** | Minha experiência como Jovem Aprendiz e estudante de Computação |
 
 </details>
 
-<p align="right"><a href="#topo">⬆️ voltar ao topo</a></p>
+<p align="right"><a href="#user-content-topo">Voltar ao topo</a></p>
 
 ---
 
 <a id="stack"></a>
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
-> 👆 Clique em qualquer ícone para abrir a documentação oficial.
+> Clique em qualquer ícone para abrir a documentação oficial.
 
 **Linguagens de programação**
 
@@ -99,7 +99,7 @@ Olá! Eu sou a **Isabelly França**! 💜
 <br/>
 
 <details>
-<summary><b>🧠 Clique para ver meu mapa de tecnologias</b></summary>
+<summary><b>Clique para ver meu mapa de tecnologias</b></summary>
 
 ```mermaid
 mindmap
@@ -121,18 +121,18 @@ mindmap
 
 </details>
 
-<p align="right"><a href="#topo">⬆️ voltar ao topo</a></p>
+<p align="right"><a href="#user-content-topo">Voltar ao topo</a></p>
 
 ---
 
 <a id="projetos"></a>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-> 👇 Clique em cada projeto para expandir ou recolher os detalhes.
+> Clique em cada projeto para expandir ou recolher os detalhes.
 
 <details open>
-<summary><b>🐾 Mercadão Pet</b> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></summary>
+<summary><b>Mercadão Pet</b> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></summary>
 
 <br/>
 
@@ -143,7 +143,7 @@ Projeto de **banco de dados** para gestão de pet shop.
 </details>
 
 <details open>
-<summary><b>🤖 Bot de Estoque</b> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></summary>
+<summary><b>Bot de Estoque</b> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></summary>
 
 <br/>
 
@@ -154,7 +154,7 @@ Projeto de **banco de dados** para gestão de pet shop.
 </details>
 
 <details open>
-<summary><b>📚 Literatura Brasileira</b> &nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></summary>
+<summary><b>Literatura Brasileira</b> &nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></summary>
 
 <br/>
 
@@ -165,7 +165,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 </details>
 
 <details open>
-<summary><b>🎮 Projeto RPG</b> &nbsp; <img src="https://img.shields.io/badge/Desenvolvimento_Web-145A8E?style=flat-square" alt="Desenvolvimento Web"/></summary>
+<summary><b>Projeto RPG</b> &nbsp; <img src="https://img.shields.io/badge/Desenvolvimento_Web-145A8E?style=flat-square" alt="Desenvolvimento Web"/></summary>
 
 <br/>
 
@@ -178,7 +178,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 <br/>
 
 <details>
-<summary><b>📂 Meus repositórios públicos</b> (o "último commit" atualiza sozinho)</summary>
+<summary><b>Meus repositórios públicos</b> (o "último commit" atualiza sozinho)</summary>
 
 <br/>
 
@@ -194,18 +194,18 @@ Site com **conteúdos literários** voltados para vestibulares.
 
 *Confira meus repositórios para acompanhar os projetos e suas evoluções!*
 
-<p align="right"><a href="#topo">⬆️ voltar ao topo</a></p>
+<p align="right"><a href="#user-content-topo">Voltar ao topo</a></p>
 
 ---
 
 <a id="analytics"></a>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <!-- Os cards mudam de cor sozinhos conforme o tema (claro/escuro) do visitante -->
 
 <details open>
-<summary><b>👩‍💻 Minhas linguagens</b> (clique para recolher)</summary>
+<summary><b>Minhas linguagens</b> (clique para recolher)</summary>
 
 <br/>
 
@@ -225,7 +225,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 </details>
 
 <details open>
-<summary><b>🔥 Estatísticas e sequência de contribuições</b></summary>
+<summary><b>Estatísticas e sequência de contribuições</b></summary>
 
 <br/>
 
@@ -245,7 +245,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 </details>
 
 <details>
-<summary><b>⏰ Em que horário eu mais programo?</b> (clique para descobrir)</summary>
+<summary><b>Em que horário eu mais programo?</b> (clique para descobrir)</summary>
 
 <br/>
 
@@ -260,7 +260,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 
 </details>
 
-### 🐍 Minha atividade no GitHub
+### Minha atividade no GitHub
 
 <div align="center">
 
@@ -272,13 +272,13 @@ Site com **conteúdos literários** voltados para vestibulares.
 
 </div>
 
-<p align="right"><a href="#topo">⬆️ voltar ao topo</a></p>
+<p align="right"><a href="#user-content-topo">Voltar ao topo</a></p>
 
 ---
 
 <a id="contato"></a>
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
 
@@ -293,7 +293,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 
 <br/><br/>
 
-⭐ Gostou de algum projeto? **Deixe uma estrela** no repositório, isso me motiva a continuar!
+Gostou de algum projeto? **Deixe uma estrela** no repositório, isso me motiva a continuar!
 
 </div>
 
@@ -301,7 +301,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 
 <div align="center">
 
-### 💜 Obrigada pela visita!
+### Obrigada pela visita!
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Animação de programação"/>
 
@@ -310,7 +310,7 @@ Site com **conteúdos literários** voltados para vestibulares.
 <br/>
 
 <details>
-<summary><b>🎲 Clique para ver uma frase aleatória de dev</b></summary>
+<summary><b>Clique para ver uma frase aleatória de dev</b></summary>
 
 <br/>
 
