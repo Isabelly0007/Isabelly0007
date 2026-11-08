@@ -1,0 +1,39 @@
+name: Gerar cobrinha das contribuições
+
+on:
+  # Atualiza sozinha a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite rodar manualmente: aba Actions > este workflow > Run workflow
+  workflow_dispatch:
+  # Roda também a cada push na branch main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Gera a animação (versão clara e versão escura) a partir das suas contribuições
+      - name: Gerar SVGs da cobrinha
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Cores do tema oceano (a primeira cor dos pontinhos é "0 contribuição")
+          outputs: |
+            dist/github-snake.svg?color_snake=#145A8E&color_dots=#E3F2F9,#B9E3F2,#6EC6E8,#1D82BE,#145A8E
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#33B5E2&color_dots=#0F2A3D,#14415F,#145A8E,#1D82BE,#33B5E2
+
+      # Publica os SVGs na branch "output" (usada pelo README)
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
